@@ -7,6 +7,13 @@
         "datums": "2026-02-27"
     },
     {
+        "id": 14,
+        "vards": "hgfh",
+        "klikski": 30,
+        "laiks": 23,
+        "datums": "2026-02-27"
+    },
+    {
         "id": 11,
         "vards": "gg1212",
         "klikski": 32,
@@ -22,13 +29,6 @@
     },
     {
         "id": 1,
-        "vards": "Anonīmais",
-        "klikski": 200,
-        "laiks": 500,
-        "datums": "2020-01-01"
-    },
-    {
-        "id": 2,
         "vards": "Anonīmais",
         "klikski": 200,
         "laiks": 500,
