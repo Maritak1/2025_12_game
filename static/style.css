@@ -2,13 +2,13 @@
     width: 600px;
     margin-left: auto;
     margin-right: auto;
-    background: rgb(232, 232, 233);
+    background: rgb(122, 216, 240);
 }
 
 h1 {
     text-align: center;
-    background: rgb(152, 198, 241);
-    color: rgb(184, 235, 66);
+    background: rgb(33, 67, 179);
+    color: rgb(249, 249, 250);
 }
 
 ul {
@@ -25,7 +25,7 @@ li {
     flex-wrap: wrap;
 
     width: 485px;
-    background: black;
+    background: rgb(0, 0, 0);
     text-align: center;
     margin: auto;
     padding: 10px;
@@ -36,7 +36,7 @@ li {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgb(235, 113, 113);
+    background: rgb(58, 55, 226);
     width: 100px;
     height: 100px;
     margin: 10px;
@@ -46,7 +46,7 @@ li {
 }
 
 .bloks:hover {
-    background:  #ff4747;
+    background:  #6882f5;
     cursor: pointer;
 }
 
@@ -70,7 +70,15 @@ a:hover {
 }
 
 a:active {
-    background-color: #007BFF;
-    color: rgb(178, 236, 130);
+    background-color: #274b72;
+    color: rgb(33, 22, 180);
     transform: scale(1.05);
+}
+
+p{
+    padding: 15px;
+}
+
+p{
+    h3: 15px;
 }
