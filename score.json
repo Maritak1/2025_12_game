@@ -21,17 +21,17 @@
         "datums": "2026-03-06"
     },
     {
+        "id": 19,
+        "vards": "fdgdfg",
+        "klikski": 22,
+        "laiks": 16,
+        "datums": "2026-03-20"
+    },
+    {
         "id": 18,
         "vards": "cvxbc",
         "klikski": 24,
         "laiks": 17,
         "datums": "2026-03-20"
-    },
-    {
-        "id": 13,
-        "vards": "gg1212",
-        "klikski": 28,
-        "laiks": 25,
-        "datums": "2026-02-27"
     }
 ]
